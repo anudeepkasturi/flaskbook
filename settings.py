@@ -1,0 +1,3 @@
+SECRET_KEY = 'LOLOL'
+DEBUG = 'TRUE'
+MONGO_DB = 'flaskbook'
